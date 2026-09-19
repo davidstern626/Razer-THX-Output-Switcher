@@ -21,7 +21,12 @@ Razer THX Output Switcher 是一款适用于 Windows 的轻量级工具，旨在
 * 支持选择参与切换的设备及其顺序。
 * 在条件允许时，同步 THX 软件界面的设备显示状态。
 * 切换 THX 输出时，保持 Windows 默认播放设备为 THX Spatial Audio。
+### 界面示意图 / UI Preview
 
+![Razer THX Output Switcher Settings](Razer-THX-Output-Switcher-settings-preview.png)
+
+*注：图片经过隐私处理及视觉编辑，仅供界面展示。*
+*Note: This image has been privacy-redacted and visually edited for illustration purposes.*
 ### 系统要求
 
 * Windows 64 位系统。
