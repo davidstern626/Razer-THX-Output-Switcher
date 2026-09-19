@@ -133,7 +133,25 @@ After switching the physical output device used by THX Spatial Audio, the tool c
 *Note: This annotated and visually edited image illustrates the feature. UI synchronization depends on the THX application's accessibility and compatibility.*
 
 ---
+## ❤️ 自愿赞赏 / Support This Project
 
+如果这个工具为你节省了时间，欢迎通过微信赞赏或支付宝自愿支持项目开发与维护。
+
+赞赏完全自愿，不影响软件的下载、使用或功能，也不代表购买技术支持服务。感谢你的支持！
+
+If this utility saves you time, you are welcome to support its development and maintenance through WeChat or Alipay.
+
+Support is entirely optional. It is not required to download or use the software, does not unlock additional features, and does not constitute the purchase of technical support. Thank you for your support!
+
+### 微信赞赏 / WeChat
+
+<img src="wechat-support.jpg" alt="WeChat appreciation QR code" width="320">
+
+### 支付宝 / Alipay
+
+<img src="alipay-support.jpg" alt="Alipay support QR code" width="320">
+
+---
 ## 📄 许可证 / License
 
 本项目采用 Apache License 2.0，具体条款请参阅仓库中的 `LICENSE` 文件。`LICENSE.zh-CN.md` 为非官方中文译文，`NOTICE` 包含相关声明。
