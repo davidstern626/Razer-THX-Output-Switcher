@@ -52,7 +52,7 @@ Razer THX Output Switcher 是一款适用于 Windows 的轻量级工具，用于
 
 **v0.9.0-rc.1**
 
-当前为候选版本，可能存在尚未发现的兼容性问题。不同 Razer 软件版本及音频设备环境下的实际表现可能有所差异。
+当前版本已公开发布。不同 Razer 软件版本及音频设备环境下的实际表现可能有所差异，部分兼容性问题可能尚未被发现。
 
 ---
 
@@ -102,7 +102,7 @@ Keep the complete extracted directory structure intact. Do not move the executab
 
 **v0.9.0-rc.1**
 
-This is a release candidate and may contain undiscovered compatibility issues. Actual behavior may vary depending on the Razer software version and audio hardware configuration.
+The current version has been publicly released. Actual behavior may vary depending on the Razer software version and audio hardware configuration, and some compatibility issues may remain undiscovered.
 
 ---
 
@@ -133,6 +133,7 @@ After switching the physical output device used by THX Spatial Audio, the tool c
 *Note: This annotated and visually edited image illustrates the feature. UI synchronization depends on the THX application's accessibility and compatibility.*
 
 ---
+
 ## ❤️ 自愿赞赏 / Support This Project
 
 如果这个工具为你节省了时间，欢迎通过微信赞赏或支付宝自愿支持项目开发与维护。
@@ -152,6 +153,7 @@ Support is entirely optional. It is not required to download or use the software
 <img src="alipay-support.jpg" alt="Alipay support QR code" width="320">
 
 ---
+
 ## 📄 许可证 / License
 
 本项目采用 Apache License 2.0，具体条款请参阅仓库中的 `LICENSE` 文件。`LICENSE.zh-CN.md` 为非官方中文译文，`NOTICE` 包含相关声明。
